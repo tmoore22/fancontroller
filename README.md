@@ -5,7 +5,6 @@ Open Source PWM Fan Controller
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://github.com/lynix/fanboy/actions/workflows/build.yml/badge.svg)](https://github.com/lynix/fanboy/actions/workflows/build.yml)
 
-
 ## Summary
 
 *FanBoy* is an Open Source DIY approach to providing a cross-platform PWM fan
